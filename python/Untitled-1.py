@@ -1,0 +1,2 @@
+print(int(eval(input("enter"))));
+
