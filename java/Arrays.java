@@ -11,8 +11,13 @@ public class Arrays {
         }
         // for output
         for( int i= 0; i<size ; i++){
-           System.out.println( numbers[i] );
+           System.out.println( numbers[i]);
         }
         sc.close();
+    }
+
+    public static String toString(int[] merged) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'toString'");
     }
 }

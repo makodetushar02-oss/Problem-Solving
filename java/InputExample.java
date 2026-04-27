@@ -11,5 +11,6 @@ public class InputExample {
         int age = sc.nextInt();
 
         System.out.println("Hello " + name + ", your age is " + age);
+        sc.close();
     }
 }
