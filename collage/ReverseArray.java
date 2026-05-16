@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 public class ReverseArray {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         // Implementation for reversing an array
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter size of array:");
