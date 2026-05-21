@@ -17,7 +17,7 @@ public class Problem13 {
     }
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int size = sc.nextInt();
+        int size = sc.nextInt();            
         int[] ids = new int[size];
 
         for (int i = 0; i < size; i++) {
