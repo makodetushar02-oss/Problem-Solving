@@ -1,0 +1,59 @@
+/* named value */
+div {
+    color: brown;
+}
+
+/* RGB hex value */
+h1 {
+    color: #7462e0;
+}
+
+/* RGB function */
+h2 {
+    color: rgb(105, 6, 19);
+}
+
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 1.6rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.2rem;
+}
+
+h4 {
+    font-size: 1.1rem;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+#social-media {
+    color: blue;
+}
+
+.experience {
+    font-style: italic;
+}
+
+a:visited {
+    color: green;
+}
+
+a:link {
+    color: green;
+}
+
+a:hover {
+    background-color: yellow;
+}
