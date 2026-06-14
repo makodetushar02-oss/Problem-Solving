@@ -1,15 +1,29 @@
 h2{
-    color: rgb(31, 68, 180);
-    container-type:;
+    color: rgb(255, 255, 255);
+    background-color: black;
 }
 form{
     color: red;
+    size: 22px;
+    
 }
 select{
     font: optional;
     color: yellow;
+    background-color: rgba(88, 39, 4, 0.866);
 }
 textarea{
     block-size: 100;
     color: green;
+}
+h3{
+    text-align: center;
+    color: rgb(182, 239, 182);
+    background-color: black;
+}
+div{
+    color: blue;
+}
+body{
+    background-color: rgb(183, 230, 230);
 }
