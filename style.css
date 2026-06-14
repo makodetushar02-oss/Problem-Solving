@@ -1,0 +1,15 @@
+h2{
+    color: rgb(31, 68, 180);
+    container-type:;
+}
+form{
+    color: red;
+}
+select{
+    font: optional;
+    color: yellow;
+}
+textarea{
+    block-size: 100;
+    color: green;
+}
