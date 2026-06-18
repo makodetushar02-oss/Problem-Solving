@@ -1,6 +1,7 @@
 h2{
     color: rgb(255, 255, 255);
     background-color: black;
+    font-family: Calibri;
 }
 form{
     color: red;
@@ -20,6 +21,7 @@ h3{
     text-align: center;
     color: rgb(182, 239, 182);
     background-color: black;
+    font-family: Arial;
 }
 div{
     color: blue;

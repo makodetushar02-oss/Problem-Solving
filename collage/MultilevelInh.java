@@ -8,7 +8,7 @@ class HOD extends Director {
         System.out.println("I am your Head of Dipartment");
     }
 }
-class student extends HOD {
+class student extends HOD  {
     void S() {
         System.out.println("I am Student in TIT excellence");
     }
