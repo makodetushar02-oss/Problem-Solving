@@ -1,15 +1,30 @@
-h2 {
-    color: rgb(231, 239, 246);
-    width: 50%;
-    background-color: rgb(0, 0, 0);
-    text-align: center;
+body {
+    background-color: rgb(111, 127, 127);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 div {
-    color: rgb(227, 131, 131);
-    background-color: rgb(219, 238, 179);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 350px;
+    height: 350px;
+    text-align: center;
+    font-size: xx-large;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 15px;
 }
 
-body {
-    background-color: rgb(175, 208, 208);
+#box {
+    font-family: Calibri;
+    background-color: rgb(224, 240, 189);
+
+}
+
+#not {
+    background-color: rgb(184, 204, 226);
+    font-family: Arial;
 }
